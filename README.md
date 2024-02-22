@@ -4,6 +4,5 @@
 
 - [ ] Header
 - [ ] Apresentação
-- [ ] Projetos
-- [ ] Conhecimentos
-- [ ] Orçamento
+- [ ] Jogos
+- [ ] Consoles
